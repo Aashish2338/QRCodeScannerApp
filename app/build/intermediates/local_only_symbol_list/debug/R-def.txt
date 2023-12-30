@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+animator scanner_animation
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable background_rect
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id barcode_line
+id bottom_sheet
+id cameraSurfaceView
+id container
+id previewView
+id text_btn
+id text_view
+id text_view_desc
+id text_view_link
+id text_view_title
+id text_view_visit_link
+layout activity_main
+layout activity_scanner
+layout bottom_sheet_barcode_data
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.ScannerApp
+xml backup_rules
+xml data_extraction_rules
